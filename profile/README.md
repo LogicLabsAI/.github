@@ -1,12 +1,12 @@
 # LogicLabsAI, LLC
 
-**LogicLabsAI, LLC** (Georgia, USA) builds **[UltraMemory](https://ultramemory.io)** — one memory, every AI: Claude, ChatGPT, Perplexity, Gemini, Cursor, OpenClaw, Hermes, any MCP client.
+**LogicLabsAI, LLC** (Georgia, USA) builds **[UltraMemory](https://ultramemory.io)** - one memory, every AI: Claude, ChatGPT, Perplexity, Gemini, Cursor, OpenClaw, Hermes, any MCP client.
 
 Founded by [James Lindsay](https://www.linkedin.com/in/jameslindsay-ai) (CEO).
 
 ## UltraMemory
 
-Hosted, multi-tenant agent memory over MCP (Streamable HTTP) — recall-first, anti-confabulation by design (metamemory gate: answer / verify / abstain).
+Hosted, multi-tenant agent memory over MCP (Streamable HTTP) - recall-first, anti-confabulation by design (metamemory gate: answer / verify / abstain).
 
 - 🌐 Website: [ultramemory.io](https://ultramemory.io)
 - 🔌 API & app: [api.ultramemory.us](https://api.ultramemory.us) · [app.ultramemory.us](https://app.ultramemory.us) (operator identity served at the API root)
